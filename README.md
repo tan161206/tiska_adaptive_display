@@ -53,9 +53,8 @@ Built using **Framer**, TISKA explores interactive product design through reusab
 Add screenshots of your actual project to `docs/images/` in the repository.
 
 ### Homepage
-![TISKA Homepage](docs/images/tiska-homepage.png)
+<img width="1280" height="692" alt="image" src="https://github.com/user-attachments/assets/6b9e1f01-2d45-4e19-81dd-d0770558e74f" />
 
-### Focus Mode
 ![TISKA Focus Mode](docs/images/tiska-focus.png)
 
 ### Flow Mode
