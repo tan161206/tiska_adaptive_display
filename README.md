@@ -145,5 +145,5 @@ No license has been specified for this project.
 <p align="center">
   <strong>TISKA</strong>
   <br />
-  <em>Your day is not one mode.</em>
+  <em>Your day your mode.</em>
 </p>
