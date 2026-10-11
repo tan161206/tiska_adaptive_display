@@ -54,16 +54,17 @@ Add screenshots of your actual project to `docs/images/` in the repository.
 
 ### Homepage
 <img width="1280" height="692" alt="image" src="https://github.com/user-attachments/assets/6b9e1f01-2d45-4e19-81dd-d0770558e74f" />
+<img width="1280" height="694" alt="image" src="https://github.com/user-attachments/assets/caacb4ea-9ee3-4d02-ba17-eab10ad0bb3d" />
 
-![TISKA Focus Mode](docs/images/tiska-focus.png)
+## Focus Mode
+<img width="1280" height="697" alt="image" src="https://github.com/user-attachments/assets/e1fc8e48-d5b7-49f6-9693-6be2429ce3c0" />
 
 ### Flow Mode
-![TISKA Flow Mode](docs/images/tiska-flow.png)
+<img width="1280" height="694" alt="image" src="https://github.com/user-attachments/assets/ecbe9d0c-e649-4eb3-85f0-7d7b91db56fa" />
 
 ### Rest Mode
-![TISKA Rest Mode](docs/images/tiska-rest.png)
+<img width="1280" height="702" alt="image" src="https://github.com/user-attachments/assets/2160bcf1-43db-4498-8c7e-e7dd25e6f95e" />
 
-*Replace these placeholders with your actual screenshots using the filenames shown above.*
 
 ## 🛠️ Tech Stack
 
@@ -137,7 +138,7 @@ Through TISKA, I explored:
 
 ## 📄 License
 
-No license has been specified for this project. Add a `LICENSE` file if you intend to define how others may use or modify the repository.
+No license has been specified for this project.
 
 ---
 
